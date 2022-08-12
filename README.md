@@ -4,15 +4,15 @@ Até o momento todos os exercícios propostos estão disponibilizados para serem
 http://lite.acad.univali.br/portugol/
 
 ## Lógica de programação
+O enuciado de todos os exercícios estão diponibilizados nos arquivos.
 
-### Estrutura Sequencial
-https://github.com/carloswvas/Educacional/tree/main/algortimo/Estrutura%20Sequ%C3%AAncial
+### Estrutura Sequencial ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=20&color=blue&style=?flat-square)
 
-### Estrutura Condicional
+### Estrutura Condicional ![Badge](https://img.shields.io/static/v1?label=Disponivel&message=20&color=blue&style=?flat-square)
 
-### Estrutura de Repetição
+### Estrutura de Repetição ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=20&color=blue&style=?flat-square)
 
-### Estrutura de dados Vetor
+### Estrutura de dados Vetor ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=20&color=blue&style=?flat-square)
 
-### Estrutura de dados Matriz
+### Estrutura de dados Matriz ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=20&color=blue&style=?flat-square)
 
