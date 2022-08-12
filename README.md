@@ -1,5 +1,5 @@
 # Educacional 👨‍💻
-### Repositório de projetos e exercícios para ser desenvolvidos em Sala de Aula
+### Repositório de projetos e exercícios para serem desenvolvidos em Sala de Aula
 Até o momento todos os exercícios propostos estão disponibilizados para serem utilizados na plataforma do portugol studio
 http://lite.acad.univali.br/portugol/
 
