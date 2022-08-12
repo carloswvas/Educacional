@@ -1,5 +1,5 @@
-# Projeto Educacional 👨‍💻
-### Repositório de projetos e exercícios para serem desenvolvidos em Sala de Aula
+<h1 align="center">Projeto Educacional 👨‍💻</h1>
+<h3> Repositório de projetos e exercícios para serem desenvolvidos em Sala de Aula</h3>
 Idealizado por: @carloswvas e @JonathasMaciel.
 
 ## Lógica de programação
