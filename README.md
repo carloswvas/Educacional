@@ -1,5 +1,7 @@
-# Educacional
-Repositório de projetos e exercícios desenvolvidos em Sala de Aula👨‍💻
+# Educacional 👨‍💻
+### Repositório de projetos e exercícios desenvolvidos em Sala de Aula
+Até o momento todos os exercícios propostos estão disponibilizados para serem utilizados na plataforma do portugol studio
+http://lite.acad.univali.br/portugol/
 
 ## Lógica de programação
 
