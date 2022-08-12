@@ -1,5 +1,15 @@
 # Educacional
 Repositório de projetos e exercícios desenvolvidos em Sala de Aula👨‍💻
 
-# Unidade Curricular / Disciplina
-<p align="justify"> <a>Lógica de programação</a> </p>
+## Lógica de programação
+
+### Estrutura Sequencial
+
+### Estrutura Condicional
+
+### Estrutura de Repetição
+
+### Estrutura de dados Vetor
+
+### Estrutura de dados Matriz
+
