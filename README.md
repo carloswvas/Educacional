@@ -1,6 +1,6 @@
 <h1 align="center">Projeto Educacional 👨‍💻</h1>
 <h3> Repositório de projetos e exercícios para serem desenvolvidos em Sala de Aula</h3>
-Idealizado por: @carloswvas e @JonathasMaciel.
+Idealizado por: <a href="https://github.com/carloswvas/">@carloswvas</a> e <a href="https://github.com/JonathasMaciel">@JonathasMaciel</a>
 
 ## Lógica de programação
 Até o momento todos os exercícios propostos estão disponibilizados para serem utilizados na plataforma do portugol studio
