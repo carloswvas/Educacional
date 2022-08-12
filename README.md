@@ -1,4 +1,4 @@
-<h1 align="justify"> Educacional </h1>
+# Educacional
 Repositório de projetos e exercícios desenvolvidos em Sala de Aula👨‍💻
 
 # Unidade Curricular / Disciplina
