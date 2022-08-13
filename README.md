@@ -7,8 +7,8 @@ Até o momento todos os exercícios propostos estão disponibilizados para serem
 http://lite.acad.univali.br/portugol/ <br>
 O enuciado de todos os exercícios estão diponibilizados nos arquivos em forma de comentário.
 
-### Estrutura Sequencial ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=23&color=blue&style=?flat-square)
-https://github.com/carloswvas/Educacional/tree/main/Algortimo/Estrutura%20Sequ%C3%AAncial
+### Estrutura Sequencial ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=23&color=blue&style=?flat-square) -> <a href="https://github.com/carloswvas/Educacional/tree/main/Algortimo/Estrutura%20Sequ%C3%AAncial">Pasta de Exercícios</a>
+
 ### Estrutura Condicional ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=20&color=orange&style=?flat-square)
 https://github.com/carloswvas/Educacional/tree/main/Algortimo/Estrutura%20Condicional
 ### Estrutura de Repetição ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=19&color=success&style=?flat-square)
