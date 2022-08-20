@@ -13,7 +13,7 @@ O enuciado de todos os exercícios estão diponibilizados nos arquivos em forma 
 
 ### Estrutura de Repetição ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=19&color=success&style=?flat-square) -> <a href="https://github.com/carloswvas/Educacional/tree/main/Algoritmo/Estrutura%20de%20Repeti%C3%A7%C3%A3o">Pasta de Exercícios</a>
 
-### Estrutura de dados Vetor ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=00&color=blue&style=?flat-square)
+### Estrutura de dados Vetor ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=11&color=blue&style=?flat-square) -> <a href="https://github.com/carloswvas/Educacional/tree/main/Algoritmo/Estrutura%20de%20dados%20Vetor">Pasta de Exercícios</a>
 
 <h4>🚧 Em construção... 🚧</h4>
 
