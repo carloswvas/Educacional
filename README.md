@@ -20,4 +20,4 @@ O enuciado de todos os exercícios estão diponibilizados nos arquivos em forma 
 ### Estrutura de dados Matriz ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=00&color=blue&style=?flat-square)
 <h4>🚧 Em construção... 🚧</h4>
 
-### Find the Bug ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=11&color=red&style=?flat-square) -> <a href="https://github.com/carloswvas/Educacional/tree/main/Algoritmo/Estrutura%20de%20dados%20Vetor">Pasta de Exercícios</a>
+### Find the Bug ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=11&color=red&style=?flat-square) -> <a href="https://github.com/carloswvas/Educacional/tree/main/Algoritmo/Exercicio%20-%20Encontre%20os%20erros">Pasta de Exercícios</a>
