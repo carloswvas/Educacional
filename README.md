@@ -1,8 +1,8 @@
 <h1 align="center">Projeto Educacional 👨‍💻</h1>
-<h3> Repositório de projetos e exercícios para serem desenvolvidos em Sala de Aula</h3>
+<h3> Projetos e exercícios para serem desenvolvidos em Sala de Aula - SENAI/AL</h3>
 Idealizado por: <a href="https://github.com/carloswvas/">@carloswvas</a> e <a href="https://github.com/JonathasMaciel">@JonathasMaciel</a>
 
-## Lógica de programação
+## Lógica de programação [Pasta de Exercícios]().
 Até o momento todos os exercícios propostos estão disponibilizados para serem utilizados na plataforma do portugol studio
 http://lite.acad.univali.br/portugol/ <br>
 O enuciado de todos os exercícios estão diponibilizados nos arquivos em forma de comentário.
