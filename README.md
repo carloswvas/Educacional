@@ -8,6 +8,7 @@ http://lite.acad.univali.br/portugol/ <br>
 Os enunciados de todos os exercícios estão disponibilizados nos arquivos em forma de comentário.
 
 ## Codificação Front-End
-Projeto Perfil - [Projeto01](https://github.com/carloswvas/Educacional/tree/main/CodificacaoFrontEnd/projeto01)
-Projeto Darth Vader - <h4>🚧 Em construção... 🚧</h4>
+Propiciar desenvolvimento de capacidades básicas e socioemocionais para codificação de interfaces baseadas em UX e UI em aplicações web, considerando as necessidades do usuário. <br>
+Projeto Perfil - [Projeto01](https://github.com/carloswvas/Educacional/tree/main/CodificacaoFrontEnd/projeto01) <br>
+Projeto Darth Vader - 🚧 Em construção... 🚧
 
