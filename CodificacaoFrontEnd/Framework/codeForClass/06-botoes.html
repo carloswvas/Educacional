@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+
+    <title>Bootstrap - botões</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+</head>
+
+<body style="padding-bottom: 200px; width: 600px; margin: 0 auto;border: 1px solid red;">
+
+    <!-- Botoes 
+    formatação padrao: btn
+    formatação específicas:
+    btn-primary, btn-secondary, btn-success, btn-info,
+    btn-warning, btn-danger, btn-light, btn-dark, btn-link
+    -->
+    <h3>Botões</h3>
+    <button class="btn btn-dark" type="button">Clique</button>
+
+    <h3>Botões com diferentes tags</h3>
+    <a href="#">Link</a>
+    <button type="submit">Submit</button>
+    <input type="button" value="Button">
+    <input type="submit" value="Input Submit">
+    <input type="reset" value="Reset">
+
+    <!-- Botoes com contorno
+    btn-outline-<formato>
+    -->
+    <h3>Botões com contorno</h3>
+    <button class="btn" type="button">Clique</button>
+
+    <!-- Tamanhos de botões
+    opções: btn-lg, btn-sm, btn-block
+    -->
+    <h3>Tamanhos dos botões</h3>
+    <button class="btn" type="button">Grande</button>
+    <button class="btn" type="button">Normal</button>
+    <button class="btn" type="button">Pequeno</button>
+    <br><br>
+    <button class="btn" type="button">Bloco</button>
+
+    <!-- Estados dos botões
+    opções: active, disabled
+    -->
+    <h3>Estados de botões</h3>
+    <button class="btn btn-success" type="button">Normal</button>
+    <button class="btn btn-success" type="button">Ativo</button>
+    <button class="btn btn-success" type="button">Inativo</button>
+    <br><br>
+    <button class="btn btn-success" type="button" data-bs-toggle="button">Alternar</button>
+
+    <h3>Grupos de botões - horizontal</h3>
+    <div>
+        <button class="btn btn-info" type="button">Esquerda</button>
+        <button class="btn btn-info" type="button">Centro</button>
+        <button class="btn btn-info" type="button">Direita</button>
+    </div>
+
+    <h3>Grupos de botões - Vertical</h3>
+    <div role="group" aria-label="Vertical button group">
+        <button type="button" class="btn btn-dark">Button</button>
+        <button type="button" class="btn btn-dark">Button</button>
+        <button type="button" class="btn btn-dark">Button</button>
+    </div>
+
+
+    <h3>Toolbar de botões</h3>
+    <div>
+        <div>
+            <button class="btn btn-danger" type="button">1</button>
+            <button class="btn btn-danger" type="button">2</button>
+            <button class="btn btn-danger" type="button">3</button>
+        </div>
+        <div>
+            <button class="btn btn-danger" type="button">4</button>
+            <button class="btn btn-danger" type="button">5</button>
+        </div>
+    </div>
+
+    <h3>Botões dropdown</h3>
+    <div role="group" aria-label="Button group with nested dropdown">
+        <button type="button" class="btn btn-primary">1</button>
+        <button type="button" class="btn btn-primary">2</button>
+
+        <div role="group">
+            <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Dropdown
+            </button>
+            <ul>
+                <li><a href="#">Dropdown link</a></li>
+                <li><a href="#">Dropdown link</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <h3>Botões checkbox</h3>
+    <div role="group" aria-label="Basic checkbox toggle button group">
+        <input type="checkbox" class="btn-check" id="btncheck1" autocomplete="off">
+        <label class="btn btn-outline-primary" for="btncheck1">Checkbox 1</label>
+
+        <input type="checkbox" class="btn-check" id="btncheck2" autocomplete="off">
+        <label class="btn btn-outline-primary" for="btncheck2">Checkbox 2</label>
+
+        <input type="checkbox" class="btn-check" id="btncheck3" autocomplete="off">
+        <label class="btn btn-outline-primary" for="btncheck3">Checkbox 3</label>
+    </div>
+    <h3>-</h3>
+    <div role="group" aria-label="Basic radio toggle button group">
+        <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked>
+        <label class="btn btn-outline-primary" for="btnradio1">Radio 1</label>
+
+        <input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off">
+        <label class="btn btn-outline-primary" for="btnradio2">Radio 2</label>
+
+        <input type="radio" class="btn-check" name="btnradio" id="btnradio3" autocomplete="off">
+        <label class="btn btn-outline-primary" for="btnradio3">Radio 3</label>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
